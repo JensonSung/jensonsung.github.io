@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Institute of Software, Chinese Academy of Sciences</p>
+    <p>Institute of Software Chinese Academy of Sciences</p>
     <p>Beijing, China</p>
 
 news: true  # includes a list of news items
