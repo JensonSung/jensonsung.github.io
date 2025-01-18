@@ -20,7 +20,7 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.0.2'
+        ruby-version: '3.3.5'
         bundler-cache: true # 使用缓存加速安装过程
 
     - name: Update Bundler
